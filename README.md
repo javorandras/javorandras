@@ -22,7 +22,6 @@
 
 ### Milestones
 
-*   **Current** – Co-founding **Aventium**, a software startup in Hungary focusing on custom automation, AI integrations, and high-performance web solutions as we scale towards formal incorporation.
 *   **Past** – Gained professional experience at **aiMotive** as a System Integration Engineer Intern.
 *   **Projects** – Developed and collaborated on custom resources, including scripts, plugins, and assets, for game server communities in Rust, MTA:SA, FiveM, Minecraft, and Team Fortress 2.
 
